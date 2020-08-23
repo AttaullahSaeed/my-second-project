@@ -1,0 +1,8 @@
+.jan{
+    animation: agypichy 2s linear infinite;
+    animation-direction:alternate ;
+}
+@keyframes agypichy {
+    from{ padding-left: 40px;}
+    to {padding-right: 40px;}
+}
