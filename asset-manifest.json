@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-second-project/static/css/main.ed255db4.chunk.css",
+    "main.js": "/my-second-project/static/js/main.9e35dd78.chunk.js",
+    "main.js.map": "/my-second-project/static/js/main.9e35dd78.chunk.js.map",
+    "runtime-main.js": "/my-second-project/static/js/runtime-main.89cf0511.js",
+    "runtime-main.js.map": "/my-second-project/static/js/runtime-main.89cf0511.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/my-second-project/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.38f415d0.chunk.js": "/my-second-project/static/js/2.38f415d0.chunk.js",
+    "static/js/2.38f415d0.chunk.js.map": "/my-second-project/static/js/2.38f415d0.chunk.js.map",
+    "index.html": "/my-second-project/index.html",
+    "precache-manifest.a4dd49088137fb66c645b6a8a09b5ecd.js": "/my-second-project/precache-manifest.a4dd49088137fb66c645b6a8a09b5ecd.js",
+    "service-worker.js": "/my-second-project/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/my-second-project/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.ed255db4.chunk.css.map": "/my-second-project/static/css/main.ed255db4.chunk.css.map",
+    "static/js/2.38f415d0.chunk.js.LICENSE.txt": "/my-second-project/static/js/2.38f415d0.chunk.js.LICENSE.txt",
+    "static/media/meo.jpg": "/my-second-project/static/media/meo.15ac2b3a.jpg",
+    "static/media/meo1.jpg": "/my-second-project/static/media/meo1.04c086dd.jpg",
+    "static/media/meo3.jpg": "/my-second-project/static/media/meo3.bd9a221c.jpg",
+    "static/media/meo4.jpg": "/my-second-project/static/media/meo4.c7f310b0.jpg",
+    "static/media/meo5.jpg": "/my-second-project/static/media/meo5.4b837e5e.jpg",
+    "static/media/meo6.jpg": "/my-second-project/static/media/meo6.e225b146.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89cf0511.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.38f415d0.chunk.js",
+    "static/css/main.ed255db4.chunk.css",
+    "static/js/main.9e35dd78.chunk.js"
+  ]
+}
